@@ -1,0 +1,1 @@
+ printf("(%d , %d) is the indices of the greatest number)",i,j);
